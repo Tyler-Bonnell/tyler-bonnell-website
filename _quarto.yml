@@ -15,14 +15,18 @@ website:
   navbar:
     pinned: true
     left:
-      - href: index.qmd
-        text: About
-      - href: cv.qmd
-        text: Experience
-      - href: projects.qmd
-        text: Projects
-      - href: contact.qmd
-        text: Contact
+      - text: About
+        icon: person-fill
+        href: index.qmd
+      - text: Experience
+        icon: file-text-fill
+        href: cv.qmd
+      - text: Projects
+        icon: code-slash
+        href: projects.qmd
+      - text: Contact
+        icon: send
+        href: contact.qmd
     right: 
       - icon: briefcase-fill
         aria-label: Work
@@ -36,19 +40,22 @@ website:
             url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website
           - text: Report an Issue
             url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website/issues
-
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/tylerjbonnell/
+  page-footer:
+    border: true
+    left: "&#169; 2024 Tyler Bonnell"
+    right: "Made with Quarto"
+  cookie-consent:
+    type: express
 
 format:
   html:
-    theme: [flatly, assets/styling/theme.scss]
+    theme: yeti
     toc: true
     toc-depth: 4
     pagetitle: "Tyler Bonnell | {{< meta title >}}"
-    page-layout: article
     smooth-scroll: true
     link-external-newwindow: true
     code-link: true
-    highlight-style: a11y
