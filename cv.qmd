@@ -1,5 +1,196 @@
 ---
 title: "Curriculum Vitae"
-about: 
-  template: jolla
+anchor-sections: false
+output:
+  quarto::quarto_html_document:
+    includes:
+      in_header: "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
 ---
+
+<br>
+
+<!-- Education -->
+
+### <i class="bi bi-mortarboard-fill"></i> Education
+
+[**Master of Public Health**]{.h4} [Sep 2020 -- June 2022]{.cv-date}
+
+[*University of Washington*]{.h5}
+
+-   Epidemiology
+-   [Thesis]{.underline}: *Identifying the Lethal Means of Washington Emergency Department Visits for Non-Fatal Suicide Attempts Before and During the COVID-19 Pandemic*
+-   [Practicum]{.underline}: *Evaluating the Misclassification of Firearm Injury Intent in Washington State Syndromic Surveillance Data*
+-   GPA: 3.93/4.00
+
+[Bachelor of Science in Public Health-Global Health (Honors) & Bachelor of Arts in Spanish]{.h4} [Sep 2015 - June 2019]{.cv-date}
+
+[*University of Washington*]{.h5}
+
+-   Cum Laude
+-   GPA: 3.83/4.0
+
+<br>
+
+<!-- Professional Experience -->
+
+### <i class="bi bi-briefcase-fill"></i> Professional Experience
+
+<br>
+
+<!-- Skills -->
+
+### <i class="bi bi-tools"></i> Skills
+
+[Hard Skills]{.h4}
+
+- [Programming Languages]{.underline}: R, Python, SQL, Markdown
+- [Web Development]{.underline}: WordPress, Elementor, Quarto
+- [Other Software]{.underline}: ArcGIS, SatScan, REDCap
+- Healthcare Analytics (diagnosis codes and clinical free-text)
+- Version Control (*Git* & *GitHub*) and Reproducible Coding Practices (*renv* and *R Package creation*)
+- Data Visualization (*ggplot2*, *plotly*, *leaflet*, *trelliscope*)
+- Parameterized Reporting (*R Markdown*, *Quarto*, *Flexdashboard*)
+
+[Soft Skills]{.h4}
+
+- Project Management (*Trello*)
+- Adaptability
+- Problem-Solving
+- Communication
+
+<br>
+
+<!-- Publications -->
+
+### <i class="bi bi-journal-bookmark-fill"></i> Publications
+
+- Asa, N., Buchbinder, S. A., **Bonnell, T.**, Mills, B., & Littman, A. (2024). Engagement with preventive health behaviors and safe firearm storage practices using the 2017 Behavioral Risk Factor Surveillance System. American journal of health promotion, 38(2), 167-176.
+- Anderson, K., & Swedo, E., **Bonnell, T. (Ed.)** (2020). NSSP Adverse Childhood Experiences Dashboard: Tips, Tricks, and Best Practices. Council of State and Territorial Epidemiologists. https://cdn.ymaws.com/www.cste.org/resource/resmgr/pdfs/ACES_Dashboard_Guide_CLEARED.pdf
+- **Bonnell, T.** J., Revere, D., Baseman, J., Hills, R., & Karras, B. T. (2022). Equity and Accessibility of Washington State’s COVID-19 Digital Exposure Notification Tool (WA Notify): Survey and Listening Sessions Among Community Leaders. JMIR Formative Research, 6(8), e38193.
+- **Bonnell, T**, (2018) Food Source Information – Protein Powder. Colorado State University Food Source Information. https://www.chhs.colostate.edu/fsi/food-articles/dairy-2/protein-powder/
+
+<br>
+
+<!-- Presentations -->
+
+### <i class="bi bi-card-heading"></i> Presentations
+
+#### <i class="bi bi-mic-fill"></i> Oral Presentations
+
+-	“Implementing Agency Visualization Color Palettes in R”, Washington State Department of Health - Center for Data Science Seminar, speaker, Seattle, WA, 2024. 
+-	“Using Syndromic Surveillance Data to Improve Non-Fatal Recreational Boating Injury Surveillance”, Washington State Department of Health - Rapid Health Information NetwOrk Community of Practice, speaker, Seattle, WA, 2024.
+-	“Using SatScan’s Prospective Spatiotemporal Clustering Algorithms to Identify Suspected Overdose, Suicide, and Firearm Injury Clusters”, National Syndromic Surveillance Program Community of Practice – Analytic Tools Subcommittee, speaker, Seattle, WA, 2023. 
+-	“Examining the lethal means of non-fatal suicide attempts in Washington before and during the COVID-19 pandemic”, Council of State and Territorial Epidemiologists Annual Conference, speaker, Salt Lake City, UT, 2023. 
+-	“Examining prospective health outcomes of firearm injury survivors in Washington State”, Centers for Disease Control and Prevention – Firearm Injury Surveillance Through Emergency Rooms (FASTER) grant Reverse Site Visit, speaker, Milwaukee, WI, 2023.
+-	All for One and One for All: Exploring Equity Impacts of a Novel Bluetooth Exposure Notification (EN) Tool”, Washington State Public Health Association Annual Conference, presenter, Seattle, WA, 2021.
+
+#### <i class="bi bi-easel-fill"></i> Poster Presentations
+
+- “Usage and Perceptions of E-Cigarettes Among University of Washington Undergraduate Students”, Washington State Public Health Association Annual Conference, presenter, Wenatchee, WA, 2019.
+
+<br>
+
+<!-- Certificates -->
+
+### <i class="bi bi-file-earmark-check-fill"></i> Certificates
+
+[**Data Scientist with Python**]{.h4} [Nov 2023 - Present]{.cv-date}<br>
+*[DataCamp (in progress)]{.h5}*
+
+[**Emergency Medical Technician**]{.h4} [Dec 2019]{.cv-date}<br>
+*[National Registry of Emergency Medical Technicians]{.h5}*
+
+[**Introduction to the Incident Command System (ICS-100)**]{.h4} [Oct 2019]{.cv-date}<br>
+*[FEMA Emergency Management Institute]{.h5}*
+
+[**Basic Incident Command System for Initial Response (ICS-200)**]{.h4} [Mar 2021]{.cv-date}<br>
+*[FEMA Emergency Management Institute]{.h5}*
+
+[**Introduction to the National Incident Management System (ICS-700)**]{.h4} [Feb 2021]{.cv-date}<br>
+*[FEMA Emergency Management Institute]{.h5}*
+
+<br>
+
+<!-- Professional Associations -->
+
+### <i class="bi bi-people-fill"></i> Professional Associations
+
+-	[Council of State and Territorial Epidemiologists (CSTE) Injury and Surveillance Subcommittee](https://www.cste.org/members/group.aspx?id=100174)
+-	[National Syndromic Surveillance Program Community of Practice](https://nsspcommunityofpractice.org/about-the-nssp-community-of-practice/) – Machine Learning & AI Workgroup
+-	[National Syndromic Surveillance Program Community of Practice](https://nsspcommunityofpractice.org/about-the-nssp-community-of-practice/) – Analytic Tools Subcommittee
+-	[National Syndromic Surveillance Program Community of Practice](https://nsspcommunityofpractice.org/about-the-nssp-community-of-practice/) – R Users Subcommittee
+-	[National Syndromic Surveillance Program Community of Practice](https://nsspcommunityofpractice.org/about-the-nssp-community-of-practice/) – Syndrome Development Subcommittee
+
+<br>
+
+<!-- Grants -->
+
+### <i class="bi bi-clipboard-check-fill"></i> Grants
+
+-	Centers for Disease Control and Prevention, “[Overdose Data to Action in States (OD2A-S)](https://www.cdc.gov/drugoverdose/od2a/state.html), $3,750,000
+-	Centers for Disease Control and Prevention, “[Advancing Violence Epidemiology in Real-Time (AVERT)](https://www.cdc.gov/violenceprevention/firearms/funded-surveillance.html)”, $225,000
+-	The Safe States Alliance, “Tier Three of a Three-Tiered Approach to Improve Boat Occupant Injury Surveillance Practices”, $25,000
+-	Centers for Disease Control and Prevention, “[Firearm Surveillance Through Emergency Rooms (FASTER)](https://www.npr.org/2023/07/07/1184739094/cdc-gun-violence-research-dickey-amendment-faster-grants)”, $150,000
+-	Centers for Disease Control and Prevention, “[Emergency Department Surveillance of Nonfatal Suicide-related Outcomes (ED-SNSRO)](https://www.cdc.gov/suicide/programs/ed-snsro/index.html)”, $200,000
+
+<br>
+
+<!-- Teaching & Advising -->
+
+### <i class="bi bi-info-circle-fill"></i> Teaching & Advising
+
+[**Peace Corps Campus Ambassador**]{.h4} [June 2018 - June 2019]{.cv-date}<br>
+*[Peace Corps]{.h5}*
+
+- Facilitated events for returned Peace Corps volunteers to describe their experiences and connect with students that are considering joining the Peace Corps.
+-	Organized a service opportunity where prospective applicants engage, learn from, and volunteer alongside returned Peace Corps volunteers while also serving the needs of our local community.
+-	Coordinated outreach efforts through class presentations, tabling, and social media to introduce and share the mission of Peace Corps with diverse groups of the university student body.
+
+[**Study Abroad Peer Advisor**]{.h4} [Sep 2017 - June 2019]{.cv-date}<br>
+*[University of Washington Study Abroad Office]{.h5}*
+
+-	Advised 125+ students on topics like financial aid, course planning, cultural adjustment, and goal setting.
+-	Presented to different student populations during events such as freshman orientation or club meetings to raise awareness about opportunities and resources to study abroad.
+-	Developed resources with departments (e.g. the College of Education & First Year Programs) including websites, video tutorials, and guides to help connect students with programs that align with their goals. 
+
+[**English as a Second Language Teacher**]{.h4} [Oct 2016 - May 2017]{.cv-date}<br>
+*[Universidad de Cadiz]{.h5}*
+
+-	Taught 3 different oral communication courses for 100+ Spanish university students studying tourism.
+-	Overhauled course curriculum with new material such as projects, presentations, and in-class exercises to promote oral communication development
+
+<br>
+
+<!-- Community Involvement -->
+
+### <i class="bi bi-person-heart"></i> Community Involvement
+
+[**Webmaster**]{.h4} [Feb 2023 - Present]{.cv-date}<br>
+*[Washington Yacht Club]{.h5}*
+
+- Redesign the [club’s website](https://washingtonyachtclub.org/) in WordPress to drive new user engagement, provide streamlined and interactive educational content, and showcase the club’s [75+ year history](https://washingtonyachtclub.org/wyc-history/) of teaching sailing to the University of Washington community.
+-	Implement and disseminate technical solutions to address operational problems such as online rating exams and comprehensive wind and weather webpage highlighting current and forecasted conditions. 
+
+[**Advocate for Youth Experiencing Homelessness**]{.h4} [Jan 2019 - Jan 2020]{.cv-date}<br>
+[*Teen Feed*]{.h5}
+
+-	Developed a better understanding of the characteristics of homeless youth and how to effectively communicate, engage with, and advocate for youth of diverse racial, gender, and sexual identities experiencing homelessness.
+-	Conducted literature reviews, population analyses, stakeholder interviews, resource assessments, and a public health proposal related to youth homelessness and HIV/AIDs.
+
+<br>
+
+<!-- Honors & Awards -->
+
+### <i class="bi bi-award-fill"></i> Honor & Awards
+
+- Phi Beta Kappa [June 2019]{.cv-date}
+- Susan B. Johnson Scholarship [Aug 2016]{.cv-date}       
+- Doug McCleary Scholarship [June 2015]{.cv-date}
+
+<br>
+
+<!-- References -->
+
+### <i class="bi bi-list-check"></i> References
+
+*Available upon [request](mailto:tylerbonnell.j@gmail.com).*
