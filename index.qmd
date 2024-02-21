@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bonnell"
-description: "TEST testatstata"
+description: "Epidemiologist | Data Scientist"
 image: resources/images/profile_picture.jpg
 about: 
   template: jolla
