@@ -64,3 +64,4 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     code-link: true
+    highlight-style: a11y
