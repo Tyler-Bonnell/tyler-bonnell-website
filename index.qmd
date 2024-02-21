@@ -1,5 +1,21 @@
 ---
-title: "tyler-bonnell-website"
+title: "Tyler Bonnell"
+image: resources/images/profile_picture.jpg
+about: 
+  template: jolla
+  links:
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/tylerbonnell/
+    - icon: facebook
+      text: facebook
+      href: https://www.facebook.com/TylerJBonnell/
+    - icon: github
+      text: github
+      href: https://github.com/Tyler-Bonnell
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/tylerjbonnell/
 ---
 
 This is a Quarto website.
