@@ -24,6 +24,9 @@ website:
       - text: Projects
         icon: code-slash
         href: projects.qmd
+      - text: Resources
+        icon: database-fill-gear
+        href: data_science_resources.qmd
       - text: Contact
         icon: send
         href: contact.qmd
