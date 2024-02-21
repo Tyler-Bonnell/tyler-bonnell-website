@@ -12,6 +12,8 @@ website:
   repo-actions:
     - source
     - issue
+  search:
+    type: textbox
   navbar:
     pinned: true
     left:
