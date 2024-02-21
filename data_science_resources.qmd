@@ -1,3 +1,26 @@
 ---
 title: "Resources"
 ---
+
+I have included below a (running) list of excellent Data Science resources which have helped me hone my skills, implement projects, and gain a better understanding of the field. 
+
+:::panel.tabset
+
+## **R**
+
+- [The Epidemiologist R Handbook](https://epirhandbook.com/en/)
+- [Jadey Ryan's R Tutorials](https://jadeyryan.com/blog)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [Cascadia R Conference](https://cascadiarconf.com/)
+- [R Bloggers](https://www.r-bloggers.com/)
+
+## **Python**
+
+- [Machine Learning in Python](https://faculty.washington.edu/otoomet/machinelearning-py/index.html)
+
+## **Data Science**
+
+- [Build a Career in Data Science ](https://podcast.bestbook.cool/)
+- [Data Nash (YouTube)](https://www.youtube.com/@datanash8200)
+
+:::
