@@ -27,9 +27,6 @@ website:
       - text: Resources
         icon: database-fill-gear
         href: data_science_resources.qmd
-      - text: Contact
-        icon: send
-        href: contact.qmd
     right: 
       - icon: briefcase-fill
         aria-label: Work
@@ -46,6 +43,9 @@ website:
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/tylerjbonnell/
+      - icon: send
+        aria-label: Email
+        href: mailto:tylerbonnell.j@gmail.com
   page-footer:
     border: true
     left: "&#169; 2024 Tyler Bonnell"
