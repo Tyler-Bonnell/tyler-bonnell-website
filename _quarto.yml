@@ -29,13 +29,26 @@ website:
         href: https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino
       - icon: github
         aria-label: GitHub
-        href: https://github.com/Tyler-Bonnell
+        menu:
+          - text: GitHub Profile
+            url: https://github.com/Tyler-Bonnell
+          - text: Source Code
+            url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website
+          - text: Report an Issue
+            url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website/issues
+
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/tylerjbonnell/
 
 format:
   html:
-    theme: yeti
-    css: styles.css
-    toc: false
+    theme: [flatly, assets/styling/theme.scss]
+    toc: true
+    toc-depth: 4
+    pagetitle: "Tyler Bonnell | {{< meta title >}}"
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-link: true
+    highlight-style: a11y
