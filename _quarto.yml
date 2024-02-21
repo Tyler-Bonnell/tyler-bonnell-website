@@ -11,12 +11,14 @@ website:
         text: Experience
       - href: projects.qmd
         text: Projects
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
