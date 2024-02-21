@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "tyler-bonnell-website"
+  title: "Tyler Bonnell"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: cv.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
