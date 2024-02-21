@@ -1,9 +1,19 @@
 project:
   type: website
+  preview:
+    port: 4996
+    browser: true
+    watch-inputs: true
+    timeout: 3600
 
 website:
   title: "Tyler Bonnell"
+  repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
+  repo-actions:
+    - source
+    - issue
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: About
@@ -13,12 +23,19 @@ website:
         text: Projects
       - href: contact.qmd
         text: Contact
+    right: 
+      - icon: briefcase-fill
+        aria-label: Work
+        href: https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/Tyler-Bonnell
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/tylerjbonnell/
 
 format:
   html:
     theme: yeti
     css: styles.css
     toc: false
-
-editor: visual
-
