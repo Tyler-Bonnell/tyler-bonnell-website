@@ -4,6 +4,8 @@ description: "Epidemiologist | Data Scientist"
 image: assets/images/profile_picture.jpg
 about: 
   template: jolla
+  image-width: 20em
+
 ---
 
 I am an Epidemiologist and Public Health Data Scientist for the [Rapid Health Information Network](https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino) program in the Washington State Department of Health [Center for Data Science](https://doh.wa.gov/about-us/executive-offices/health-and-science/center-data-science). 
