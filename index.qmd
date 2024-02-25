@@ -15,16 +15,17 @@ I am an Epidemiologist and Public Health Data Scientist for the [Rapid Health In
 
 I thrive on exploring impactful questions in collaboration with key stakeholders. My expertise lies in adeptly wrangling complex and contextually rich data to derive meaningful insights. Passionate about innovation, I develop novel tools and solutions to enhance the efficiency and findings of future analyses.
 
+
 ## **Public Health**
 
 As an early-career professional working in Public Health, I actively seek projects that aim to elevate the human condition, transforming the way we work, play, and contribute to our communities. My recent work has focused on suicide, overdose, and injury prevention, and I have previous experience working in digital health, communicable disease prevention, and environmental health. As can be seen by the diversity of these experiences, I am a continuous learner and excited to exploring new fields where I can make an impact.
 
-## **Personal Life**
+## **Continous Learning**
 
-*Why share personal information on a professional portfolio? - I strive to bring my whole-self to my work and take the time to get to know collaborators as people -- it is important.*
+As a continuous learner, I have recently expanded my skillset to include topics such as Quarto, leveraging multiple programming languages (R/Python/SQL), package development, and interactive data visualization, and reproducible coding practices.
 
-I have many hobbies that help me explore and celebrate the awesome outdoor recreational spaces we have in Washington such as backcountry skiing, sailing, windsurfing, tennis, long distance running, and biking.
+## **Personal**
 
-Additionally, I love to cook (and share recipes), attend concerts & music festivals (I recommend [THING](https://thingnw.org/)), travel (I have traveled to 35 countries), and cheer on the Seahawks!
+I have many hobbies that help me explore and celebrate the awesome outdoor recreational spaces we have in Washington such as backcountry skiing, sailing, windsurfing, tennis, long distance running, and biking.Additionally, I love to cook (and share recipes), attend concerts & music festivals (I recommend [THING](https://thingnw.org/)), travel (I have traveled to 35 countries), and cheer on the Seahawks!
 
 :::
