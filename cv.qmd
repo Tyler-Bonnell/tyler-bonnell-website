@@ -219,6 +219,11 @@ anchor-sections: false
 
 ### <i class="bi bi-info-circle-fill"></i> Teaching & Advising
 
+[**Graduate Mentor**]{.h5} <span style="float: right;">Sep 2021 - June 2022</span><br>
+[**University of Washington – Department of Epidemiology**]{.h6}
+
+- Assisted 1 graduate and 2 undergraduate public health students in course selection, job applications (resume review and mock interviews), and skill development (cover letter and resume drafting and R programming). 
+
 [**Peace Corps Campus Ambassador**]{.h5} <span style="float: right;">June 2018 - June 2019</span><br>
 [*Peace Corps*]{.h6}
 
@@ -250,6 +255,11 @@ anchor-sections: false
 
 - Redesign the [club’s website](https://washingtonyachtclub.org/) in WordPress to drive new user engagement, provide streamlined and interactive educational content, and showcase the club’s [75+ year history](https://washingtonyachtclub.org/wyc-history/) of teaching sailing to the University of Washington community.
 -	Implement and disseminate technical solutions to address operational problems such as online rating exams and comprehensive wind and weather webpage highlighting current and forecasted conditions. 
+
+[**Guest Experience Volunteer**]{.h5} <span style="float: right;">Aug 2022 - Present</span><br>
+[*Seattle Theater Group - THING Festival*]{.h6}
+
+- Support with music festival operations including setting up of music venues, facilitating class registration and check-in's, directing parking, distributing tickets, and answer guests' questions.
 
 [**Advocate for Youth Experiencing Homelessness**]{.h5} <span style="float: right;">Jan 2019 - Jan 2020</span><br>
 [*Teen Feed*]{.h6}
