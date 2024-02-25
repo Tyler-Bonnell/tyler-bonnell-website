@@ -7,22 +7,20 @@ output:
       in_header: "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
 ---
 
-<br>
-
 <!-- Education -->
 
 ### <i class="bi bi-mortarboard-fill"></i> Education
 
 [**Master of Public Health**]{.h4} [Sep 2020 -- June 2022]{.cv-date}<br>
-[*University of Washington*]{.h5}
+[*University of Washington*]{.h6}
 
 -   Epidemiology
 -   [Thesis]{.underline}: *Identifying the Lethal Means of Washington Emergency Department Visits for Non-Fatal Suicide Attempts Before and During the COVID-19 Pandemic*
 -   [Practicum]{.underline}: *Evaluating the Misclassification of Firearm Injury Intent in Washington State Syndromic Surveillance Data*
 -   GPA: 3.93/4.00
 
-[**Bachelor of Science in Public Health-Global Health (Honors) & Bachelor of Arts in Spanish**]{.h4} [Sep 2015 - June 2019]{.cv-date}<br>
-[*University of Washington*]{.h5}
+[**Bachelor of Science in Public Health-Global Health (Honors) & Bachelor of Arts in Spanish**]{.h5} [Sep 2015 - June 2019]{.cv-date}<br>
+[*University of Washington*]{.h6}
 
 -   Cum Laude
 -   GPA: 3.83/4.0
@@ -33,7 +31,7 @@ output:
 
 ### <i class="bi bi-briefcase-fill"></i> Professional Experience
 
-[**Public Health Data Scientist/Epidemiologist II**]{.h4} [July 2022 - Present]{.cv-date}<br>      [**Washington State Department of Health, Rapid Heath Information Network (RHINO)**]{.h5}
+[**Public Health Data Scientist/Epidemiologist II**]{.h4} [July 2022 - Present]{.cv-date}<br>      [**Washington State Department of Health, Rapid Heath Information Network (RHINO)**]{.h6}
 
 - Lead the execution of analytic and dissemination deliverables for suicide, firearm injury, and violence-related CDC grants.
 -	Create interactive, quarterly reports visualizing temporal, geospatial, and demographic trends for overdose, firearm injury, and behavioral health-related emergency department visit. To date, 500+ reports have been shared with local health departments to inform public health interventions.
@@ -42,82 +40,82 @@ output:
 -	Design deterministic and probabilistic linkages between electronic health record and other governmental data sources to validate electronic health record data and further contextualize related analyses.
 -	Conduct literature reviews, exploratory data analyses, and manual record reviews to develop and evaluate novel electronic health queries aimed at monitoring public health conditions of interest. 
 
-[**Research Assistant – WA Notify Evaluation & School of Public Health Dean’s Office**]{.h4} [Feb 2021 - June 2021]{.cv-date}<br>
-[**University of Washington, Department of Epidemiology**]{.h5}                                   
+[**Research Assistant – WA Notify Evaluation & School of Public Health Dean’s Office**]{.h5} [Feb 2021 - June 2021]{.cv-date}<br>
+[**University of Washington, Department of Epidemiology**]{.h6}                                   
 
 - Developed mixed method data collection instruments such as REDCap surveys and semi-structured interview guides.
 -	Cultivated relationships with community-based organizations (CBOs) and coordinate meetings among key stakeholders. 
 -	Drafted and disseminated analytical findings for key WA Notify implementation stakeholders. 
 - Conducted literature reviews regarding non-pharmaceutical COVID-19 interventions, COVID-19 vaccination, epidemic modeling, and the equity implications of novel eHealth & mHealth technologies. 
 
-[**Program Manager I – COVID-19 Contact Tracing Lead**]{.h4} [June 2020 - Sep 2020]{.cv-date}<br>
-[**Public Health Seattle & King County - COVID-19 Contact Tracing Team**]{.h5}
+[**Program Manager I – COVID-19 Contact Tracing Lead**]{.h5} [June 2020 - Sep 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - COVID-19 Contact Tracing Team**]{.h6}
 
 - Led a team of 50+ COVID-19 contact tracers that conduct case investigations for the Seattle-King County COVID-19 response.
 - Facilitated problem solving of complicated scenarios and offered guidance to contact tracers by leading daily debrief meetings and communicating thorough information about process changes to the contact tracing team.
 - Mentored staff and trainees by observing case investigations calls, providing appropriate feedback, and developing educational materials and guides for continuous learning.
 - Piloted and established a program for daily follow-up communications with COVID-19 cases and their close contacts throughout the remainder of their isolation and quarantine periods.
 
-[**Disease Research and Intervention Specialist – COVID-19 Contact Tracer**]{.h4} [April 2020 - Feb 2021]{.cv-date}<br>
-[**Public Health Seattle & King County - COVID-19 Contact Tracing Team**]{.h5}
+[**Disease Research and Intervention Specialist – COVID-19 Contact Tracer**]{.h5} [April 2020 - Feb 2021]{.cv-date}<br>
+[**Public Health Seattle & King County - COVID-19 Contact Tracing Team**]{.h6}
 
 - Conducted in-depth case investigations with COVID positive individuals and educated them as well as their family members on isolation, quarantine, and community support resources. 
 - Facilitated the testing of individuals exposed to COVID-19, their enrollment in quarantine grocery services, admission to county isolation and quarantine facilities, and engagement with community health workers and social services.
 - Utilized multiple platforms (e.g. REDCap, Mosio, Teams) to enter data, track the spread of COVID-19, and activate additional outbreak response resources for congregate living, workplace, and healthcare-related situations.
 
-[**Emergency Medical Technician (EMT)**]{.h4} [March 2020 - April 2020]{.cv-date}<br>
-[**Northwest Ambulance Critical Care Transport**]{.h5}
+[**Emergency Medical Technician (EMT)**]{.h5} [March 2020 - April 2020]{.cv-date}<br>
+[**Northwest Ambulance Critical Care Transport**]{.h6}
 
 - Conducted assessments, monitored vitals, and reviewed patient medical history to develop a clear understanding of a patient’s condition to properly inform the receiving facility of the patient’s needs.
 - Responded to 911 emergency dispatches and medical interfacility transportation requests rapidly and safely.
 - Routinely maintained and operated the ambulance, radio, and other emergency medical equipment.
 
-[**Community Outreach Contractor**]{.h4} [Jan 2020 - April 2020]{.cv-date}<br>
-[**Public Health Seattle & King County - The Condom Distribution Project**]{.h5}
+[**Community Outreach Contractor**]{.h5} [Jan 2020 - April 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - The Condom Distribution Project**]{.h6}
 
 -	Identified, contacted, and recruited South King County businesses and organizations as community partners to increase [the availability, accessibility, and acceptability of free condoms](https://freecondomswa.com/map).
 -	Promoted condom use to decrease the transmission of HIV and other STIs by building relationships, educating community partners, and providing logistical support to the Condom Distribution Project.
 
-[**Disease Research and Intervention Specialist**]{.h4} [Feb 2020 - March 2020]{.cv-date}<br>
-[**Public Health Seattle & King County - The Fentanyl Risk Assessment**]{.h5}
+[**Disease Research and Intervention Specialist**]{.h5} [Feb 2020 - March 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - The Fentanyl Risk Assessment**]{.h6}
 
 -	Supervised study's respondent driven sampling efforts by educating participants on recruitment strategies and monitoring progress utilizing software such as CDC Coupon Manager
 -	Conducted rapid fentanyl tests on drug samples and counsel participants on overdose prevention tips as well as how to accurately administer these tests themselves.
 
-[**Professional Ski Patroller/EMT**]{.h4} [Oct 2019 - March 2020]{.cv-date}<br>
-[**Summit at Snoqualmie**]{.h5} 
+[**Professional Ski Patroller/EMT**]{.h5} [Oct 2019 - March 2020]{.cv-date}<br>
+[**Summit at Snoqualmie**]{.h6} 
 
 - Served as primary emergency medical response and transport responding to various trauma, medical, and environmental incidents ranging from head to long bone injuries to overdose or altered level of consciousness.
 - Coordinated with team members and other mountain resources to implement safety and risk mitigation measures such as marking hazards, avalanche control and clearing the mountain for public use at opening and sweeping at close.
 
-[**Disease Research and Intervention Specialist – HIV Test Counselor**]{.h4} [May 2019 - Feb 2020]{.cv-date}<br>
-[**Public Health Seattle & King County - National HIV Behavioral Surveillance (HET & Trans)**]{.h5}
+[**Disease Research and Intervention Specialist – HIV Test Counselor**]{.h5} [May 2019 - Feb 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - National HIV Behavioral Surveillance (HET & Trans)**]{.h6}
 
 -	Established rapport with individuals of diverse lived experiences and backgrounds in a brief amount of time.
 -	Conducted the National Behavioral HIV Surveillance (NHBS) structured, qualitative interview in Spanish and English for the Heterosexual and Trans-women cycles. 
 -	Ran INSTI rapid HIV, Gonorrhea, and Chlamydia tests with study participants.
 -	Counseled individuals on HIV related issues, risk reduction strategies, and additional links to care and resources.
 
-[**Global Health Development Intern**]{.h4} [Sep 2018 - Jan 2019]{.cv-date}<br>
-[**Malaria No More**]{.h5}
+[**Global Health Development Intern**]{.h5} [Sep 2018 - Jan 2019]{.cv-date}<br>
+[**Malaria No More**]{.h6}
 
 - Assisted the development of social media and fundraising content aimed at raising awareness about malaria and the need for continued support of anti-malaria interventions.
 - Conducted and incorporated research on grant opportunities, major donors, and potential partnerships into strategic briefs for company employees.
 
-[**Migrant Health Outreach Worker**]{.h4} [June 2018 - Sep 2018]{.cv-date}<br>
-[**Sea Mar Community Health Center, Migrant & Seasonal Farmworker Promotores Program**]{.h5}
+[**Migrant Health Outreach Worker**]{.h5} [June 2018 - Sep 2018]{.cv-date}<br>
+[**Sea Mar Community Health Center, Migrant & Seasonal Farmworker Promotores Program**]{.h6}
 
 - Established rapport with farmworkers from indigenous communities in Mexico and Guatemala by working alongside community leaders to clearly communicate the mission and services of the organization.
 - Facilitated culturally and linguistically appropriate health education workshops (in English and Spanish) on subjects ranging from tobacco cessation to heart attack awareness to oral hygiene for both adults and kids.
 
-[**Student Epidemic Action Leaders (SEAL): Foodborne Illness Outbreak Intern**]{.h4} [June 2018 - Sep 2018]{.cv-date}<br>
-[**University of Washington School of Public Health, Department of Epidemiology**]{.h5}
+[**Student Epidemic Action Leaders (SEAL): Foodborne Illness Outbreak Intern**]{.h5} [June 2018 - Sep 2018]{.cv-date}<br>
+[**University of Washington School of Public Health, Department of Epidemiology**]{.h6}
 
 -	Researched foodborne illness risks associated with food production processes as well as the public health agencies tasked with addressing foodborne illness outbreaks at the local, national, and international level.
 -	Developed  web materials to support foodborne illness outbreak responders in their epidemiological investigations.
 
-[**Patient Care Intern**]{.h4} [Jan 2016 - Aug 2016]{.cv-date}<br>        
-[**Swedish Medical Center, Neurology & Epilepsy and Oncology units**]{.h5}
+[**Patient Care Intern**]{.h5} [Jan 2016 - Aug 2016]{.cv-date}<br>
+[**Swedish Medical Center, Neurology & Epilepsy and Oncology units**]{.h6}
 
 - Cultivated relations with nursing staff by supporting them with patient rounds and other designated tasks. 
 - Reported patient requests and vitals to providers according to HIPAA standards.
@@ -128,7 +126,7 @@ output:
 
 ### <i class="bi bi-tools"></i> Skills
 
-[Hard Skills]{.h4}
+[**Hard Skills**]{.h4}
 
 - [Programming Languages]{.underline}: R, Python, SQL, Markdown
 - [Web Development]{.underline}: WordPress, Elementor, Quarto
@@ -138,7 +136,7 @@ output:
 - Data Visualization (*ggplot2*, *plotly*, *leaflet*, *trelliscope*)
 - Parameterized Reporting (*R Markdown*, *Quarto*, *Flexdashboard*)
 
-[Soft Skills]{.h4}
+[**Soft Skills**]{.h4}
 
 - Project Management (*Trello*)
 - Adaptability
@@ -182,20 +180,20 @@ output:
 
 ### <i class="bi bi-file-earmark-check-fill"></i> Certificates
 
-[**Data Scientist with Python**]{.h4} [Nov 2023 - Present]{.cv-date}<br>
-*[DataCamp (in progress)]{.h5}*
+[**Data Scientist with Python**]{.h5} [Nov 2023 - Present]{.cv-date}<br>
+[*DataCamp*]{.h6}
 
-[**Emergency Medical Technician**]{.h4} [Dec 2019]{.cv-date}<br>
-*[National Registry of Emergency Medical Technicians]{.h5}*
+[**Emergency Medical Technician**]{.h5} [Dec 2019]{.cv-date}<br>
+[*National Registry of Emergency Medical Technicians*]{.h6}
 
-[**Introduction to the Incident Command System (ICS-100)**]{.h4} [Oct 2019]{.cv-date}<br>
-*[FEMA Emergency Management Institute]{.h5}*
+[**Introduction to the Incident Command System (ICS-100)**]{.h5} [Oct 2019]{.cv-date}<br>
+[*FEMA Emergency Management Institute*]{.h6}
 
-[**Basic Incident Command System for Initial Response (ICS-200)**]{.h4} [Mar 2021]{.cv-date}<br>
-*[FEMA Emergency Management Institute]{.h5}*
+[**Basic Incident Command System for Initial Response (ICS-200)**]{.h5} [Mar 2021]{.cv-date}<br>
+[*FEMA Emergency Management Institute*]{.h6}
 
-[**Introduction to the National Incident Management System (ICS-700)**]{.h4} [Feb 2021]{.cv-date}<br>
-*[FEMA Emergency Management Institute]{.h5}*
+[**Introduction to the National Incident Management System (ICS-700)**]{.h5} [Feb 2021]{.cv-date}<br>
+[*FEMA Emergency Management Institute*]{.h6}
 
 <br>
 
@@ -227,22 +225,22 @@ output:
 
 ### <i class="bi bi-info-circle-fill"></i> Teaching & Advising
 
-[**Peace Corps Campus Ambassador**]{.h4} [June 2018 - June 2019]{.cv-date}<br>
-*[Peace Corps]{.h5}*
+[**Peace Corps Campus Ambassador**]{.h5} [June 2018 - June 2019]{.cv-date}<br>
+[*Peace Corps*]{.h6}
 
 - Facilitated events for returned Peace Corps volunteers to describe their experiences and connect with students that are considering joining the Peace Corps.
 -	Organized a service opportunity where prospective applicants engage, learn from, and volunteer alongside returned Peace Corps volunteers while also serving the needs of our local community.
 -	Coordinated outreach efforts through class presentations, tabling, and social media to introduce and share the mission of Peace Corps with diverse groups of the university student body.
 
-[**Study Abroad Peer Advisor**]{.h4} [Sep 2017 - June 2019]{.cv-date}<br>
-*[University of Washington Study Abroad Office]{.h5}*
+[**Study Abroad Peer Advisor**]{.h5} [Sep 2017 - June 2019]{.cv-date}<br>
+[*University of Washington Study Abroad Office*]{.h6}
 
 -	Advised 125+ students on topics like financial aid, course planning, cultural adjustment, and goal setting.
 -	Presented to different student populations during events such as freshman orientation or club meetings to raise awareness about opportunities and resources to study abroad.
 -	Developed resources with departments (e.g. the College of Education & First Year Programs) including websites, video tutorials, and guides to help connect students with programs that align with their goals. 
 
-[**English as a Second Language Teacher**]{.h4} [Oct 2016 - May 2017]{.cv-date}<br>
-*[Universidad de Cadiz]{.h5}*
+[**English as a Second Language Teacher**]{.h5} [Oct 2016 - May 2017]{.cv-date}<br>
+[*Universidad de Cadiz*]{.h6}
 
 -	Taught 3 different oral communication courses for 100+ Spanish university students studying tourism.
 -	Overhauled course curriculum with new material such as projects, presentations, and in-class exercises to promote oral communication development
@@ -253,14 +251,14 @@ output:
 
 ### <i class="bi bi-person-heart"></i> Community Involvement
 
-[**Webmaster**]{.h4} [Feb 2023 - Present]{.cv-date}<br>
-*[Washington Yacht Club]{.h5}*
+[**Webmaster**]{.h5} [Feb 2023 - Present]{.cv-date}<br>
+[*Washington Yacht Club*]{.h6}
 
 - Redesign the [club’s website](https://washingtonyachtclub.org/) in WordPress to drive new user engagement, provide streamlined and interactive educational content, and showcase the club’s [75+ year history](https://washingtonyachtclub.org/wyc-history/) of teaching sailing to the University of Washington community.
 -	Implement and disseminate technical solutions to address operational problems such as online rating exams and comprehensive wind and weather webpage highlighting current and forecasted conditions. 
 
-[**Advocate for Youth Experiencing Homelessness**]{.h4} [Jan 2019 - Jan 2020]{.cv-date}<br>
-[*Teen Feed*]{.h5}
+[**Advocate for Youth Experiencing Homelessness**]{.h5} [Jan 2019 - Jan 2020]{.cv-date}<br>
+[*Teen Feed*]{.h6}
 
 -	Developed a better understanding of the characteristics of homeless youth and how to effectively communicate, engage with, and advocate for youth of diverse racial, gender, and sexual identities experiencing homelessness.
 -	Conducted literature reviews, population analyses, stakeholder interviews, resource assessments, and a public health proposal related to youth homelessness and HIV/AIDs.
