@@ -13,8 +13,7 @@ output:
 
 ### <i class="bi bi-mortarboard-fill"></i> Education
 
-[**Master of Public Health**]{.h4} [Sep 2020 -- June 2022]{.cv-date}
-
+[**Master of Public Health**]{.h4} [Sep 2020 -- June 2022]{.cv-date}<br>
 [*University of Washington*]{.h5}
 
 -   Epidemiology
@@ -22,8 +21,7 @@ output:
 -   [Practicum]{.underline}: *Evaluating the Misclassification of Firearm Injury Intent in Washington State Syndromic Surveillance Data*
 -   GPA: 3.93/4.00
 
-[Bachelor of Science in Public Health-Global Health (Honors) & Bachelor of Arts in Spanish]{.h4} [Sep 2015 - June 2019]{.cv-date}
-
+[**Bachelor of Science in Public Health-Global Health (Honors) & Bachelor of Arts in Spanish**]{.h4} [Sep 2015 - June 2019]{.cv-date}<br>
 [*University of Washington*]{.h5}
 
 -   Cum Laude
@@ -34,6 +32,21 @@ output:
 <!-- Professional Experience -->
 
 ### <i class="bi bi-briefcase-fill"></i> Professional Experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
@@ -64,10 +77,11 @@ output:
 
 ### <i class="bi bi-journal-bookmark-fill"></i> Publications
 
-- Asa, N., Buchbinder, S. A., **Bonnell, T.**, Mills, B., & Littman, A. (2024). Engagement with preventive health behaviors and safe firearm storage practices using the 2017 Behavioral Risk Factor Surveillance System. American journal of health promotion, 38(2), 167-176.
-- Anderson, K., & Swedo, E., **Bonnell, T. (Ed.)** (2020). NSSP Adverse Childhood Experiences Dashboard: Tips, Tricks, and Best Practices. Council of State and Territorial Epidemiologists. https://cdn.ymaws.com/www.cste.org/resource/resmgr/pdfs/ACES_Dashboard_Guide_CLEARED.pdf
-- **Bonnell, T.** J., Revere, D., Baseman, J., Hills, R., & Karras, B. T. (2022). Equity and Accessibility of Washington State’s COVID-19 Digital Exposure Notification Tool (WA Notify): Survey and Listening Sessions Among Community Leaders. JMIR Formative Research, 6(8), e38193.
-- **Bonnell, T**, (2018) Food Source Information – Protein Powder. Colorado State University Food Source Information. https://www.chhs.colostate.edu/fsi/food-articles/dairy-2/protein-powder/
+- Schlotthauer, A., **Bonnell, T.,** et al. (2024). [Improving Recreational Boating Surveillance: A Manual for State Boating Law Administrators and Public Health Epidemiologists](https://cdn.ymaws.com/www.safestates.org/resource/resmgr/boating/Improving_Recreational_Boati.pdf). The Safe States Alliance
+- Asa, N., Buchbinder, S. A., **Bonnell, T.**, Mills, B., & Littman, A. (2024). [Engagement with Preventive Health Behaviors and Safe Firearm Storage Practices Using the 2017 Behavioral Risk Factor Surveillance System](https://journals.sagepub.com/doi/full/10.1177/08901171231214867?casa_token=XXtc7JW5yUcAAAAA%3A4WrT5QFn3Xx0pgS5NmKCKbQAWQdUV3OWtu3C1CdPNKyeK2hrE1_3lV_s8yPTUteJBHjPKn7Kz0J9). American Journal of Health Promotion, 38(2), 167-176.
+- Anderson, K., & Swedo, E., **Bonnell, T. (Ed.)** (2020). [NSSP Adverse Childhood Experiences Dashboard: Tips, Tricks, and Best Practices. Council of State and Territorial Epidemiologists](https://cdn.ymaws.com/www.cste.org/resource/resmgr/pdfs/ACES_Dashboard_Guide_CLEARED.pdf). 
+- **Bonnell, T.** J., Revere, D., Baseman, J., Hills, R., & Karras, B. T. (2022). [Equity and Accessibility of Washington State’s COVID-19 Digital Exposure Notification Tool (WA Notify): Survey and Listening Sessions Among Community Leaders](https://formative.jmir.org/2022/8/e38193). JMIR Formative Research, 6(8), e38193.
+- **Bonnell, T**, (2018) [Food Source Information – Protein Powder](https://www.chhs.colostate.edu/fsi/food-articles/dairy-2/protein-powder/). Colorado State University Food Source Information. 
 
 <br>
 
