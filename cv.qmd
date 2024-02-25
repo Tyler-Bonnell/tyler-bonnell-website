@@ -17,10 +17,10 @@ output:
 -   [Practicum]{.underline}: *Evaluating the Misclassification of Firearm Injury Intent in Washington State Syndromic Surveillance Data*
 -   GPA: 3.93/4.00
 
-[**Bachelor of Science in Public Health-Global Health (Honors) & Bachelor of Arts in Spanish**]{.h5} <span style="float: right;">Sep 2015 - June 2019</span><br>
+[**Bachelor of Science in Public Health-Global Health & Bachelor of Arts in Spanish**]{.h5} <span style="float: right;">Sep 2015 - June 2019</span><br>
 [*University of Washington*]{.h6}
 
--   Cum Laude
+-   Departmental Honors; Cum Laude
 -   GPA: 3.83/4.0
 
 <br>
