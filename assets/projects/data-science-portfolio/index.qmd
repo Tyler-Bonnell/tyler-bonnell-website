@@ -1,10 +1,6 @@
 ---
 title: "Quarto Portfolio"
-description: "Setting up a Data Science Portfolio with Quarto"
-author:
-  - name: Tyler Bonnell
-    url: https://github.com/Tyler-Bonnell
-    orcid: 0000-0002-7041-6496
+description: "Setting Up a Data Science Portfolio with Quarto"
 date: "02-24-2024"
 image: Quarto.png
 image-alt: "Quarto Logo"
