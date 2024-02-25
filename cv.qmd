@@ -33,20 +33,94 @@ output:
 
 ### <i class="bi bi-briefcase-fill"></i> Professional Experience
 
+[**Public Health Data Scientist/Epidemiologist II**]{.h4} [July 2022 - Present]{.cv-date}<br>      [**Washington State Department of Health, Rapid Heath Information Network (RHINO)**]{.h5}
 
+- Lead the execution of analytic and dissemination deliverables for suicide, firearm injury, and violence-related CDC grants.
+-	Create interactive, quarterly reports visualizing temporal, geospatial, and demographic trends for overdose, firearm injury, and behavioral health-related emergency department visit. To date, 500+ reports have been shared with local health departments to inform public health interventions.
+-	Implement an automated spatiotemporal cluster detection analysis using SatScan to detect near-real time upticks in public health conditions of interest. 
+-	Develop the RHINO R package, a suite of tools designed to promote reproducible pulling (via API), cleaning, feature extraction, visualization, and analysis of electronic health record data by public health professionals.
+-	Design deterministic and probabilistic linkages between electronic health record and other governmental data sources to validate electronic health record data and further contextualize related analyses.
+-	Conduct literature reviews, exploratory data analyses, and manual record reviews to develop and evaluate novel electronic health queries aimed at monitoring public health conditions of interest. 
 
+[**Research Assistant – WA Notify Evaluation & School of Public Health Dean’s Office**]{.h4} [Feb 2021 - June 2021]{.cv-date}<br>
+[**University of Washington, Department of Epidemiology**]{.h5}                                   
 
+- Developed mixed method data collection instruments such as REDCap surveys and semi-structured interview guides.
+-	Cultivated relationships with community-based organizations (CBOs) and coordinate meetings among key stakeholders. 
+-	Drafted and disseminated analytical findings for key WA Notify implementation stakeholders. 
+- Conducted literature reviews regarding non-pharmaceutical COVID-19 interventions, COVID-19 vaccination, epidemic modeling, and the equity implications of novel eHealth & mHealth technologies. 
 
+[**Program Manager I – COVID-19 Contact Tracing Lead**]{.h4} [June 2020 - Sep 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - COVID-19 Contact Tracing Team**]{.h5}
 
+- Led a team of 50+ COVID-19 contact tracers that conduct case investigations for the Seattle-King County COVID-19 response.
+- Facilitated problem solving of complicated scenarios and offered guidance to contact tracers by leading daily debrief meetings and communicating thorough information about process changes to the contact tracing team.
+- Mentored staff and trainees by observing case investigations calls, providing appropriate feedback, and developing educational materials and guides for continuous learning.
+- Piloted and established a program for daily follow-up communications with COVID-19 cases and their close contacts throughout the remainder of their isolation and quarantine periods.
 
+[**Disease Research and Intervention Specialist – COVID-19 Contact Tracer**]{.h4} [April 2020 - Feb 2021]{.cv-date}<br>
+[**Public Health Seattle & King County - COVID-19 Contact Tracing Team**]{.h5}
 
+- Conducted in-depth case investigations with COVID positive individuals and educated them as well as their family members on isolation, quarantine, and community support resources. 
+- Facilitated the testing of individuals exposed to COVID-19, their enrollment in quarantine grocery services, admission to county isolation and quarantine facilities, and engagement with community health workers and social services.
+- Utilized multiple platforms (e.g. REDCap, Mosio, Teams) to enter data, track the spread of COVID-19, and activate additional outbreak response resources for congregate living, workplace, and healthcare-related situations.
 
+[**Emergency Medical Technician (EMT)**]{.h4} [March 2020 - April 2020]{.cv-date}<br>
+[**Northwest Ambulance Critical Care Transport**]{.h5}
 
+- Conducted assessments, monitored vitals, and reviewed patient medical history to develop a clear understanding of a patient’s condition to properly inform the receiving facility of the patient’s needs.
+- Responded to 911 emergency dispatches and medical interfacility transportation requests rapidly and safely.
+- Routinely maintained and operated the ambulance, radio, and other emergency medical equipment.
 
+[**Community Outreach Contractor**]{.h4} [Jan 2020 - April 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - The Condom Distribution Project**]{.h5}
 
+-	Identified, contacted, and recruited South King County businesses and organizations as community partners to increase [the availability, accessibility, and acceptability of free condoms](https://freecondomswa.com/map).
+-	Promoted condom use to decrease the transmission of HIV and other STIs by building relationships, educating community partners, and providing logistical support to the Condom Distribution Project.
 
+[**Disease Research and Intervention Specialist**]{.h4} [Feb 2020 - March 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - The Fentanyl Risk Assessment**]{.h5}
 
+-	Supervised study's respondent driven sampling efforts by educating participants on recruitment strategies and monitoring progress utilizing software such as CDC Coupon Manager
+-	Conducted rapid fentanyl tests on drug samples and counsel participants on overdose prevention tips as well as how to accurately administer these tests themselves.
 
+[**Professional Ski Patroller/EMT**]{.h4} [Oct 2019 - March 2020]{.cv-date}<br>
+[**Summit at Snoqualmie**]{.h5} 
+
+- Served as primary emergency medical response and transport responding to various trauma, medical, and environmental incidents ranging from head to long bone injuries to overdose or altered level of consciousness.
+- Coordinated with team members and other mountain resources to implement safety and risk mitigation measures such as marking hazards, avalanche control and clearing the mountain for public use at opening and sweeping at close.
+
+[**Disease Research and Intervention Specialist – HIV Test Counselor**]{.h4} [May 2019 - Feb 2020]{.cv-date}<br>
+[**Public Health Seattle & King County - National HIV Behavioral Surveillance (HET & Trans)**]{.h5}
+
+-	Established rapport with individuals of diverse lived experiences and backgrounds in a brief amount of time.
+-	Conducted the National Behavioral HIV Surveillance (NHBS) structured, qualitative interview in Spanish and English for the Heterosexual and Trans-women cycles. 
+-	Ran INSTI rapid HIV, Gonorrhea, and Chlamydia tests with study participants.
+-	Counseled individuals on HIV related issues, risk reduction strategies, and additional links to care and resources.
+
+[**Global Health Development Intern**]{.h4} [Sep 2018 - Jan 2019]{.cv-date}<br>
+[**Malaria No More**]{.h5}
+
+- Assisted the development of social media and fundraising content aimed at raising awareness about malaria and the need for continued support of anti-malaria interventions.
+- Conducted and incorporated research on grant opportunities, major donors, and potential partnerships into strategic briefs for company employees.
+
+[**Migrant Health Outreach Worker**]{.h4} [June 2018 - Sep 2018]{.cv-date}<br>
+[**Sea Mar Community Health Center, Migrant & Seasonal Farmworker Promotores Program**]{.h5}
+
+- Established rapport with farmworkers from indigenous communities in Mexico and Guatemala by working alongside community leaders to clearly communicate the mission and services of the organization.
+- Facilitated culturally and linguistically appropriate health education workshops (in English and Spanish) on subjects ranging from tobacco cessation to heart attack awareness to oral hygiene for both adults and kids.
+
+[**Student Epidemic Action Leaders (SEAL): Foodborne Illness Outbreak Intern**]{.h4} [June 2018 - Sep 2018]{.cv-date}<br>
+[**University of Washington School of Public Health, Department of Epidemiology**]{.h5}
+
+-	Researched foodborne illness risks associated with food production processes as well as the public health agencies tasked with addressing foodborne illness outbreaks at the local, national, and international level.
+-	Developed  web materials to support foodborne illness outbreak responders in their epidemiological investigations.
+
+[**Patient Care Intern**]{.h4} [Jan 2016 - Aug 2016]{.cv-date}<br>        
+[**Swedish Medical Center, Neurology & Epilepsy and Oncology units**]{.h5}
+
+- Cultivated relations with nursing staff by supporting them with patient rounds and other designated tasks. 
+- Reported patient requests and vitals to providers according to HIPAA standards.
 
 <br>
 
