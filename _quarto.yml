@@ -57,7 +57,9 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme:
+      light: yeti
+      dark: darkly
     toc: true
     toc-depth: 4
     pagetitle: "Tyler Bonnell | {{< meta title >}}"
