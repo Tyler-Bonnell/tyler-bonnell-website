@@ -1,0 +1,20 @@
+---
+title: "Example Project"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+date: "02-24-2024"
+image: question_mark.png
+image-alt: "Alt Text"
+author:
+  - name: Tyler Bonnell
+    url: https://github.com/Tyler-Bonnell
+    orcid: 0000-0002-7041-6496
+date: "02-24-2024"
+categories: 
+  - Template
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Example Post
+Test test test
