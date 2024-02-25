@@ -1,0 +1,15 @@
+---
+title: "Quarto Portfolio"
+description: "Setting up a Data Science Portfolio with Quarto"
+author: Tyler Bonnell
+date: "2024-02-24"
+image: Quarto.png
+image-alt: "Quarto Logo"
+categories:
+  - Quarto
+  - Portfolio
+---
+
+# Example Post
+
+asdasdsa
