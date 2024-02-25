@@ -6,6 +6,9 @@ project:
     watch-inputs: true
     timeout: 3600
 
+execute:
+  freeze: auto
+    
 website:
   title: "Tyler Bonnell"
   repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
@@ -14,6 +17,7 @@ website:
     - issue
   search:
     type: textbox
+  back-to-top-navigation: true
   navbar:
     pinned: true
     left:

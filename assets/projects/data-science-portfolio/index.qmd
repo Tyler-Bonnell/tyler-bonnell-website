@@ -1,0 +1,21 @@
+---
+title: "Quarto Portfolio"
+description: "Setting Up a Data Science Portfolio with Quarto"
+date: "02-24-2024"
+image: Quarto.png
+image-alt: "Quarto Logo"
+author:
+  - name: Tyler Bonnell
+    url: https://github.com/Tyler-Bonnell
+    orcid: 0000-0002-7041-6496
+categories: 
+  - Quarto
+  - Portfolio
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+<span class="listing-btn-group">
+<a href="https://github.com/Tyler-Bonnell/tyler-bonnell-website" class="btn" role="button">{{< fa brands github >}} Code</a>
+</span>
