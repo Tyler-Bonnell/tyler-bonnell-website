@@ -286,3 +286,11 @@ anchor-sections: false
 ### <i class="bi bi-list-check"></i> References
 
 *Available upon [request](mailto:tylerbonnell.j@gmail.com).*
+
+### <i class="bi bi-printer-fill"></i> PDF
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="assets/images/Tyler Bonnell 2024 CV.pdf">
+</iframe>
