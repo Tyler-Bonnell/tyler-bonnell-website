@@ -10,7 +10,7 @@ author:
     orcid: 0000-0002-7041-6496
 categories: 
   - Quarto
-  - Portfolio
+  - CSS
 citation: 
   url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
