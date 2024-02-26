@@ -1,5 +1,8 @@
 /*-- scss:defaults --*/
 
+// Import Fonts
+//@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
+
 // Base Colors
 $white:         #ffffff;
 $cream:         #FDFBF7;
@@ -43,3 +46,6 @@ $code-color: $black; // inline code text color
 
 // Code blocks
 $code-block-bg: $cream; // code block background color
+
+
+/*-- scss:rules --*/
