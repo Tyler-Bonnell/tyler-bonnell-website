@@ -1,40 +1,41 @@
 /*-- scss:defaults --*/
 
 // Base Colors
-$white:  #fff;
-$cream:  #FDFBF7;
-$gray-0: #f9f9f9;
-$gray-1: #eceeee;
-$gray-2: #dfe1e1;
-$gray-3: #d0d4d3;
-$gray-4: #c0c5c4;
-$gray-5: #aeb4b3;
-$gray-6: #99a1a0;
-$gray-7: #818b8a;
-$gray-8: #626f6d;
-$gray-9: #334240;
-$black:  #000;
+$white:         #ffffff;
+$cream:         #FDFBF7;
+$gray-0:        #f9f9f9;
+$gray-1:        #eceeee;
+$gray-2:        #dfe1e1;
+$gray-3:        #d0d4d3;
+$gray-4:        #c0c5c4;
+$gray-5:        #aeb4b3;
+$gray-6:        #99a1a0;
+$gray-7:        #818b8a;
+$gray-8:        #626f6d;
+$gray-9:        #334240;
+$dark-grey1:    #293241;
+$dark-grey2:    #222222;
+$black:         #000000;
 
 // Theme Colors
-$blue1:        #03045e;
-$blue2:        #0077b6;
-$blue3:        #4AA4DE;
-$blue4:        #00b4d8;
-$blue4:        #90e0ef;
-$blue5:        #caf0f8;
-$blue-grey1:   #3d5a80;
-$blue-grey2:   #98c1d9;
-$burnt-orange: #ee6c4d;
-$obsidian:     #293241;
+$blue6:        #03045e;
+$blue5:        #0077b6;
+$blue4:        #4AA4DE;
+$blue3:        #00b4d8;
+$blue2:        #90e0ef;
+$blue1:        #caf0f8;
+$blue-grey2:   #3d5a80;
+$blue-grey1:   #98c1d9;
+$burnt-orange: #ee6c4d; 
 
 // Base document colors
-$navbar-bg: $blue2; // navbar
+$navbar-bg: $dark-grey2; // navbar
 $navbar-fg: $white; // navbar foreground elements
 $navbar-hl: $white; // highlight color when hovering over navbar links
 //$body-bg: $light-green; // page background 
 //$body-color: $gray; // page text 
 //$footer-bg: $cream; // footer 
-$link-color: $blue1; // hyperlinks 
+$link-color: $burnt-orange; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
