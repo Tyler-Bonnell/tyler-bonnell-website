@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Import Fonts
-//@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 // Base Colors
 $white:         #ffffff;
@@ -47,5 +47,25 @@ $code-color: $black; // inline code text color
 // Code blocks
 $code-block-bg: $cream; // code block background color
 
+// Contrast
+$min-contrast-ratio:   7;
 
 /*-- scss:rules --*/
+
+h1 {
+  font-size: 1.3em;
+  font-weight: 900;
+  color: $blue5;
+}
+
+h2 {
+  color: $blue5;
+  font-size: 1.0em;
+}
+
+// Centering Panel Tabs
+
+.panel-tabset {
+      margin: 0 auto; /* This centers the element horizontally */
+      max-width: 700px; /* Adjust the max-width as needed */
+   }
