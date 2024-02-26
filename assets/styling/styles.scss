@@ -52,6 +52,7 @@ $min-contrast-ratio:   7;
 
 /*-- scss:rules --*/
 
+// Headers
 h1 {
   font-size: 1.3em;
   font-weight: 900;
@@ -59,13 +60,109 @@ h1 {
 }
 
 h2 {
-  color: $blue5;
   font-size: 1.0em;
+  color: $blue5;
 }
 
-// Centering Panel Tabs
 
+// Centering Panel Tabs
 .panel-tabset {
       margin: 0 auto; /* This centers the element horizontally */
       max-width: 700px; /* Adjust the max-width as needed */
    }
+
+
+// navbar
+.navbar-title {
+  font-weight: 400;
+}
+
+// Hamburger Menu: All icons in one row (Andrew Heiss's blog). Source: https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140)
+.navbar-nav.navbar-nav-scroll.ms-auto {
+    flex-direction: row;
+}
+
+
+// Code
+pre.sourceCode {
+  font-size: 0.9em;
+}
+
+.sourceCode pre code {
+  padding: 0.9em;
+}
+
+// Footer
+/// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
+
+body .nav-footer {
+  border-top: 1px solid $gray-1;
+}
+
+.nav-footer {
+  background-color: $gray-0;
+  color: $black;
+}
+
+.nav-footer a {
+    color: $black;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 991.98px) {
+
+// Source: Silvia Canelon's blog source code: https://github.com/spcanelon/silvia/blob/main/assets/silvia-theme.scss
+
+  .nav-footer {
+      flex-direction: row;
+    }
+
+  .nav-footer-center {
+    order: 3 !important;
+    flex-basis: 100%;
+    margin-top: -0.5em;
+  }
+
+  .nav-footer-right {
+    order: 2 !important;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .nav-footer-left {
+    order: 1 !important;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .navbar .quarto-navbar-tools {
+    text-align: left;
+  }
+  
+  div.cookie-consent-footer {
+    margin-top: -0.5em;
+  }
+
+}
+
+
+// Cookies 
+
+.termsfeed-com---palette-light .cc-nb-okagree, .termsfeed-com---palette-light .cc-nb-reject, .cc-pc-container .cc-cp-foot-save {
+  background-color: $blue5;
+  border-radius: 6px;
+}
+
+.cc-cp-body .cc-cp-body-tabs-item-link, .cc-cp-body .cc-cp-body-tabs {
+  background-color: $blue-grey1;
+  color: black;
+}
+
+.termsfeed-com---palette-light .cc-cp-body-tabs-item[active=true] button {
+  background-color: $blue5;
+  color: white;
+}
+
+.termsfeed-com---pc-dialog input[type=checkbox].cc-custom-checkbox:checked+label:before {
+  background: $blue5;
+}

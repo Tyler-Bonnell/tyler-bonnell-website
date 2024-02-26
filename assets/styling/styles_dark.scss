@@ -53,6 +53,7 @@ $min-contrast-ratio:   7;
 
 /*-- scss:rules --*/
 
+// Headers
 h1 {
   font-size: 1.3em;
   font-weight: 900;
@@ -66,8 +67,167 @@ h2 {
 
 
 // Centering Panel Tabs
-
 .panel-tabset {
       margin: 0 auto; /* This centers the element horizontally */
       max-width: 700px; /* Adjust the max-width as needed */
    }
+
+
+// navbar
+.navbar-title {
+  font-weight: 400;
+}
+
+// Hamburger Menu: All icons in one row. Source: https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140)
+.navbar-nav.navbar-nav-scroll.ms-auto {
+    flex-direction: row;
+}
+
+
+// Code
+pre.sourceCode {
+  font-size: 0.9em;
+}
+
+.sourceCode pre code {
+  padding: 0.9em;
+}
+
+
+// Footer
+/// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
+
+/// Footer Border
+body .nav-footer {
+  border-top: 1px solid $white;
+}
+
+/// Footer Background
+.nav-footer {
+  background-color: $dark-grey2;
+  color: $white;
+}
+
+/// Footer Text
+.nav-footer a {
+    color: $white;
+    text-decoration: underline;
+}
+
+/// Footer Alignment (Rows)
+@media screen and (max-width: 991.98px) {
+
+// Source: Silvia Canelon's blog source code: https://github.com/spcanelon/silvia/blob/main/assets/silvia-theme.scss
+
+  .nav-footer {
+      flex-direction: row;
+    }
+
+  .nav-footer-center {
+    order: 3 !important;
+    flex-basis: 100%;
+    margin-top: -0.5em;
+  }
+
+  .nav-footer-right {
+    order: 2 !important;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .nav-footer-left {
+    order: 1 !important;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .navbar .quarto-navbar-tools {
+    text-align: left;
+  }
+  
+  div.cookie-consent-footer {
+    margin-top: -0.5em;
+  }
+
+}
+
+
+// Cookies
+
+/// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
+
+// Cookie Header
+
+/// Header Background
+.termsfeed-com---palette-light .cc-pc-head{
+  background-color: $dark-grey2;
+    color: $white;
+}
+
+/// Header Title Text
+.termsfeed-com---palette-light .cc-pc-head-title-headline{
+  color: $white;
+}
+
+/// Header Language Select Text
+.termsfeed-com---palette-light .cc-pc-head-lang select {
+    background-color: $dark-grey2;
+    color: $white;
+}
+
+.termsfeed-com---palette-light .cc-pc-head-close{
+  color: $white;
+}
+
+// Cookie Sidebar
+
+/// Unselected Options
+.cc-cp-body .cc-cp-body-tabs-item-link, .cc-cp-body .cc-cp-body-tabs {
+  background-color: $dark-grey2;
+  color: $white;
+}
+
+/// Selected Options
+.termsfeed-com---palette-light .cc-cp-body-tabs-item[active=true] button {
+  background-color: $gray-7;
+  color: $white;
+}
+
+// Cookie Body
+
+/// Content Body Background
+
+.termsfeed-com---palette-light .cc-cp-body-content-entry{
+  background-color: $dark-grey2;
+  color: $white;
+}
+
+/// Content Body Text
+
+.termsfeed-com---palette-light .cc-cp-body-content-entry-title, .termsfeed-com---palette-light .cc-cp-body-content-entry-text{
+  color: $white;
+}
+
+/// Activation Buttons
+.termsfeed-com---pc-dialog input[type=checkbox].cc-custom-checkbox:checked+label:before {
+  background: $burnt-orange;
+}
+
+// Cookie Footer
+
+/// Footer Background
+.termsfeed-com---palette-light .cc-cp-foot {
+    color: $white;
+    background-color: $dark-grey2;
+}
+
+/// Footer Text
+.termsfeed-com---palette-light .cc-cp-foot-byline {
+    color: $white;
+}
+
+/// Preference button
+.termsfeed-com---palette-light .cc-nb-okagree, .termsfeed-com---palette-light .cc-nb-reject, .cc-pc-container .cc-cp-foot-save {
+  background-color: $dark-grey2;
+  border-radius: 6px;
+}
