@@ -19,8 +19,10 @@ website:
   search:
     type: textbox
   back-to-top-navigation: true
+  
   navbar:
     pinned: true
+    logo: assets/images/logo-nobg.png
     left:
       - text: About
         icon: person-fill
