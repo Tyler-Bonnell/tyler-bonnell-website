@@ -11,7 +11,7 @@ execute:
     
 website:
   title: "Tyler Bonnell"
-  favicon: assets/images/TJB-logos_black.png
+  favicon: assets/images/logo-nobg.png
   repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
   repo-actions:
     - source
@@ -22,7 +22,6 @@ website:
   
   navbar:
     pinned: true
-    logo: assets/images/logo-nobg.png
     left:
       - text: About
         icon: person-fill
