@@ -54,7 +54,7 @@ $min-contrast-ratio:   7;
 
 // Headers
 h1 {
-  font-size: 1.3em;
+  font-size: 1.8em;
   font-weight: 900;
   color: $blue5;
 }
@@ -64,6 +64,24 @@ h2 {
   color: $blue5;
 }
 
+h3 {
+  color: $blue6;
+}
+
+h4, h5 {
+  color: $black;
+}
+
+h6 {
+  color: $gray-9;
+}
+
+
+// CV Dates
+.cv-date {
+  float: right;
+  color: $gray-9;
+}
 
 // Centering Panel Tabs
 .panel-tabset {
