@@ -11,6 +11,7 @@ execute:
     
 website:
   title: "Tyler Bonnell"
+  favicon: assets/images/TJB-logos_black.png
   repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
   repo-actions:
     - source
