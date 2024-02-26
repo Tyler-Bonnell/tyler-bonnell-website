@@ -6,7 +6,7 @@ I have included below a (running) list of excellent Data Science resources which
 
 ::: {.panel-tabset}
 
-## **R**
+## [**R**]{.h2}
 
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/)
 - [Jadey Ryan's R Tutorials](https://jadeyryan.com/blog)
@@ -14,11 +14,11 @@ I have included below a (running) list of excellent Data Science resources which
 - [Cascadia R Conference](https://cascadiarconf.com/)
 - [R Bloggers](https://www.r-bloggers.com/)
 
-## **Python**
+## [**Python**]{.h2}
 
 - [Machine Learning in Python](https://faculty.washington.edu/otoomet/machinelearning-py/index.html)
 
-## **Data Science**
+## [**Data Science**]{.h2}
 
 - [Build a Career in Data Science ](https://podcast.bestbook.cool/)
 - [Towards Data Science](https://towardsdatascience.com/)
