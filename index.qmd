@@ -1,7 +1,7 @@
 ---
 title: "Tyler Bonnell"
 description: "Epidemiologist | Data Scientist"
-image: assets/images/headshot.png
+image: assets/images/headshot.webp
 about: 
   template: jolla
   image-width: 20em
