@@ -11,7 +11,7 @@ execute:
     
 website:
   title: "Tyler Bonnell"
-  favicon: assets/images/logo-nobg.png
+  favicon: assets/images/Logo4.png
   repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
   repo-actions:
     - source
@@ -22,6 +22,8 @@ website:
   
   navbar:
     pinned: true
+    logo: assets/images/Logo4-nobg.png
+    logo-alt: "Initials T J B in diagonal pattern."
     left:
       - text: About
         icon: person-fill
