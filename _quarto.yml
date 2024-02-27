@@ -59,7 +59,12 @@ website:
   page-footer:
     border: true
     left: "&#169; 2024 Tyler Bonnell"
-    right: "Made with Quarto, Maintained in R, and Styled with CSS"
+    center:
+      - text: Code of Conduct
+        href: code_of_conduct.qmd
+      - text: License
+        href: license.qmd
+    right: "Made with [Quarto](https://quarto.org), Maintained in [R](https://www.r-project.org/), and Styled with [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)."
   cookie-consent:
     type: express
 
