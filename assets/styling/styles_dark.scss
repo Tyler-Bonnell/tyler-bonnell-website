@@ -74,8 +74,18 @@ h2 {
 
 
 // navbar
+
+/// Name
 .navbar-title {
   font-weight: 400;
+}
+
+/// Logo
+.navbar-logo {
+    width: 25px !important;
+    height: auto !important;
+    padding: 0;
+    margin: 0;
 }
 
 // Hamburger Menu: All icons in one row. Source: https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140)
