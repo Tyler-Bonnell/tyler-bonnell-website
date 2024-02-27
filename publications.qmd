@@ -1,0 +1,14 @@
+---
+title: "Publications"
+listing:
+  contents: assets/publications
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
+---
