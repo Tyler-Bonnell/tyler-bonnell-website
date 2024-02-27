@@ -1,0 +1,14 @@
+---
+title: "Accessibility commitment"
+image: assets/images/JR-logo-circle.webp
+image-alt: "Cat with tail shaped as the letter J next to last name initial R"
+---
+
+[Building this website was a learning process and was guided by the following invaluable resources and source code:]{.underline}
+
+1. [Quarto - Creating a Website](https://quarto.org/docs/websites/)
+2. [Jadey Ryan's Website](https://jadeyryan.com/) and [A beginner’s guide to building a simple website with Quarto & Netlify](https://jadeyryan.com/blog/2024-02-19_beginner-quarto-netlify/)
+3. [Sam Csik's Guide to Customizing Quarto Websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide), 
+4. [Silvia Canelon's Website](https://silviacanelon.com/) 
+
+While these resources have served as excellent examples, I have strived to 1) cite their influence they have had on the design and development process and 2) to adapt their code and ideas to reflect my personal preferences and style for this website. 
