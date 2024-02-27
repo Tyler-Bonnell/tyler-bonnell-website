@@ -242,3 +242,26 @@ body .nav-footer {
   background-color: $dark-grey2;
   border-radius: 6px;
 }
+
+// Back to Top button
+
+#myBtn {
+    position: fixed;
+    bottom: 75px;
+    right: 10px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgba(51, 66, 64, 0.75); /* Grey9: Start color with 75% opacity */
+    color: $white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#myBtn:hover {
+    background-color: rgba(51, 66, 64, 1); /* Grey9: Hover color with full opacity */
+    color: $burnt-orange;
+    text-decoration: underline $burnt-orange; /* Underline in white on hover */
+}

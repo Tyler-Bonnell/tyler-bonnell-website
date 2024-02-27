@@ -18,7 +18,6 @@ website:
     - issue
   search:
     type: textbox
-  back-to-top-navigation: true
   
   navbar:
     pinned: true
