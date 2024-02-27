@@ -92,9 +92,9 @@ h6 {
 
 // navbar
 
-/// Name
-.navbar-title {
-  font-weight: 400;
+// Hamburger Menu: All icons in one row (Andrew Heiss's blog). Source: https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140)
+.navbar-nav.navbar-nav-scroll.ms-auto {
+    flex-direction: row;
 }
 
 /// Logo
@@ -105,9 +105,28 @@ h6 {
     margin: 0;
 }
 
-// Hamburger Menu: All icons in one row (Andrew Heiss's blog). Source: https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140)
-.navbar-nav.navbar-nav-scroll.ms-auto {
-    flex-direction: row;
+/// Title
+//// Title & Page Hover Borders sourced from Silvia Canelon's source code: https://github.com/spcanelon/silvia/blob/main/assets/silvia-theme-light.scss
+
+.navbar-title {
+  font-weight: 400;
+
+  &:hover {
+    border-bottom: 1px solid $white !important;
+  }
+}
+
+/// Pages
+.navbar-nav .nav-link {
+    color: $white !important;
+    border-bottom: 0px hidden $secondary;    
+    margin: 0px 10px 0px 10px; 
+    padding: 2px 2px 4px 2px !important;
+
+    &:hover {
+      border-bottom: 1px solid $white !important;
+      padding: 2px 2px 0px 2px !important;
+    }
 }
 
 

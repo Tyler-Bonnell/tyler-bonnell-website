@@ -34,6 +34,12 @@ website:
       - text: Projects
         icon: code-slash
         href: projects.qmd
+      - text: Publications
+        icon: journal-bookmark-fill
+        href: publications.qmd
+      - text: Talks
+        icon: card-heading
+        href: talks.qmd
       - text: Resources
         icon: database-fill-gear
         href: resources.qmd
