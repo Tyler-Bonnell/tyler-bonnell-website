@@ -59,7 +59,7 @@ website:
   page-footer:
     border: true
     left: "&#169; 2024 Tyler Bonnell"
-    right: "Made with Quarto"
+    right: "Made with Quarto, Maintained in R, and Styled with CSS"
   cookie-consent:
     type: express
 
