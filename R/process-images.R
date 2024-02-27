@@ -36,9 +36,6 @@ resize_image <- function(image_path, size) {
 
 # Convert images from PNG to Webp ----------
 
-## Folder to convert all images from png to webp
-folder <- here("blog/2023-11-19_publish-quarto-website/img/")
-
 ## List all PNG files in the folder
 png_files <- list.files(
   path = "assets/images/",
@@ -54,4 +51,4 @@ map(png_files, file_delete)
 
 
 # Resize Image(s) ----------
-resize_image(here("assets/img/soil-bins.webp"), 400)
+# resize_image(here("assets/images/INSERT_FILE.webp"), 400)
