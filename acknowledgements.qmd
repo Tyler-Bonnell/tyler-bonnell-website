@@ -1,7 +1,7 @@
 ---
-title: "Accessibility commitment"
-image: assets/images/JR-logo-circle.webp
-image-alt: "Cat with tail shaped as the letter J next to last name initial R"
+title: "Acknowledgements"
+image: assets/images/Logo.webp
+image-alt: "Initials T J B in diagonal pattern."
 ---
 
 [Building this website was a learning process and was guided by the following invaluable resources and source code:]{.underline}
