@@ -36,7 +36,7 @@ website:
         href: projects.qmd
       - text: Resources
         icon: database-fill-gear
-        href: data_science_resources.qmd
+        href: resources.qmd
     right: 
       - icon: briefcase-fill
         aria-label: Work
