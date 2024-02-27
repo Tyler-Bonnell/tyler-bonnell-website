@@ -118,10 +118,13 @@ body .nav-footer {
   color: $white;
 }
 
-/// Footer Text
+/// Footer Middle + Links
 .nav-footer a {
-    color: $white;
+    color: $burnt-orange;
     text-decoration: underline;
+    &:hover {
+      color: $white;
+    }
 }
 
 /// Footer Alignment (Rows)
@@ -206,14 +209,12 @@ body .nav-footer {
 // Cookie Body
 
 /// Content Body Background
-
 .termsfeed-com---palette-light .cc-cp-body-content-entry{
   background-color: $dark-grey2;
   color: $white;
 }
 
 /// Content Body Text
-
 .termsfeed-com---palette-light .cc-cp-body-content-entry-title, .termsfeed-com---palette-light .cc-cp-body-content-entry-text{
   color: $white;
 }

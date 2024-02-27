@@ -142,18 +142,24 @@ pre.sourceCode {
 // Footer
 /// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
 
+/// Footer Border
 body .nav-footer {
   border-top: 1px solid $gray-1;
 }
 
+/// Footer Body
 .nav-footer {
   background-color: $gray-0;
   color: $black;
 }
 
+/// Footer Middle + Links
 .nav-footer a {
-    color: $black;
+    color: $blue6;
     text-decoration: underline;
+    &:hover {
+      color: $burnt-orange;
+    }
 }
 
 @media screen and (max-width: 991.98px) {
@@ -195,21 +201,79 @@ body .nav-footer {
 
 // Cookies 
 
+/// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
+
+// Cookie Header
+
+/// Header Background
+.termsfeed-com---palette-light .cc-pc-head{
+  background-color: $blue5;
+    color: $white;
+}
+
+/// Header Title Text
+.termsfeed-com---palette-light .cc-pc-head-title-headline{
+  color: $white;
+}
+
+/// Header Language Select Text
+.termsfeed-com---palette-light .cc-pc-head-lang select {
+    background-color: $blue5;
+    color: $white;
+}
+
+.termsfeed-com---palette-light .cc-pc-head-close{
+  color: $white;
+}
+
+
+// Cookie Sidebar
+
+/// Unselected Options
+.cc-cp-body .cc-cp-body-tabs-item-link, .cc-cp-body .cc-cp-body-tabs {
+  background-color: $blue5;
+  color: $white;
+}
+
+/// Selected Options
+.termsfeed-com---palette-light .cc-cp-body-tabs-item[active=true] button {
+  background-color: $blue6;
+  color: $white;
+}
+
+// Cookie Body
+
+/// Content Body Background
+.termsfeed-com---palette-light .cc-cp-body-content-entry{
+  background-color: $blue5;
+  color: $white;
+}
+
+/// Content Body Text
+.termsfeed-com---palette-light .cc-cp-body-content-entry-title, .termsfeed-com---palette-light .cc-cp-body-content-entry-text{
+  color: $white;
+}
+
+/// Activation Buttons
+.termsfeed-com---pc-dialog input[type=checkbox].cc-custom-checkbox:checked+label:before {
+  background: $blue6;
+}
+
+// Cookie Footer
+
+/// Footer Background
+.termsfeed-com---palette-light .cc-cp-foot {
+    color: $white;
+    background-color: $blue5;
+}
+
+/// Footer Text
+.termsfeed-com---palette-light .cc-cp-foot-byline {
+    color: $white;
+}
+
+/// Preference button
 .termsfeed-com---palette-light .cc-nb-okagree, .termsfeed-com---palette-light .cc-nb-reject, .cc-pc-container .cc-cp-foot-save {
   background-color: $blue5;
   border-radius: 6px;
-}
-
-.cc-cp-body .cc-cp-body-tabs-item-link, .cc-cp-body .cc-cp-body-tabs {
-  background-color: $blue-grey1;
-  color: black;
-}
-
-.termsfeed-com---palette-light .cc-cp-body-tabs-item[active=true] button {
-  background-color: $blue5;
-  color: white;
-}
-
-.termsfeed-com---pc-dialog input[type=checkbox].cc-custom-checkbox:checked+label:before {
-  background: $blue5;
 }
