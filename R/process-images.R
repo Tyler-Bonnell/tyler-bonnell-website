@@ -47,7 +47,7 @@ png_files <- list.files(
 map(png_files, convert_to_webp)
 
 # Remove old .png files
-map(png_files, file_delete)
+# map(png_files, file_delete)
 
 
 # Resize Image(s) ----------
