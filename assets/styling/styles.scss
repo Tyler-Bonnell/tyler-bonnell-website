@@ -97,24 +97,40 @@ h6 {
     flex-direction: row;
 }
 
-/// Logo
-.navbar-logo {
-    width: 25px !important;
-    height: auto !important;
-    padding: 0;
-    margin: 0;
+/// Title
+.navbar-title{
+  text-align: center;
+  font-size: $font-size-base * 1.5;
 }
 
-/// Title
-//// Title & Page Hover Borders sourced from Silvia Canelon's source code: https://github.com/spcanelon/silvia/blob/main/assets/silvia-theme-light.scss
+// the line in the navbar logo
+// animation defined in ek-styles.css
+.icon-line {
+  display: block;
+  background: $blue2;
+  width: 100%;
+  height: 3px;
+  margin: auto;
+  display: table;
+  margin-top: -6px;
+  margin-bottom: -6px;
+}
 
-.navbar-title {
-  font-weight: 400;
+.navbar-title:hover > .icon-line {
+  animation-duration: 600ms;
+  animation-name: line-expand;
+}
 
-  &:hover {
-    border-bottom: 1px solid $white !important;
+@keyframes line-expand {
+  from {
+    width: 0%;
+  }
+  
+  to {
+    width: 100%;
   }
 }
+
 
 /// Pages
 .navbar-nav .nav-link {
