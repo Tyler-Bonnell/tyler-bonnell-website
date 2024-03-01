@@ -80,14 +80,6 @@ h2 {
     flex-direction: row;
 }
 
-/// Logo
-.navbar-logo {
-    width: 25px !important;
-    height: auto !important;
-    padding: 0;
-    margin: 0;
-}
-
 
 /// Title
 .navbar-title{
@@ -121,6 +113,57 @@ h2 {
   to {
     width: 100%;
   }
+}
+
+// Index.qmd Links
+
+// remove about separator
+div.quarto-about-jolla .about-sep {
+  height: 0;
+  margin: 0;
+  color: $dark-grey2;
+}
+
+div.quarto-about-jolla .about-link {
+  color: $orange;
+  font-size: 1em;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+div.quarto-about-jolla .about-link:hover {
+  background-color: $dark-grey2;
+  color: $white;
+}
+
+// listing buttons
+
+div.quarto-post .listing-categories .listing-category, .quarto-category, .btn {
+  opacity: 0.8 !important;
+  color: $secondary;
+  border-color: $secondary;
+  text-align: center;
+  border-style: solid;
+  text-decoration: none;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+.btn {
+  opacity: 1 !important;
+  padding: 0.5em;
+  border-radius: 6px;
+}
+div.quarto-post .listing-categories .listing-category:hover, .quarto-category:hover, .btn:hover {
+  background-color: $burnt-orange;
+  color: $white;
+}
+
+.listing-btn-group {
+  display: inline-flex;
+  gap: 1em;
 }
 
 

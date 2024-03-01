@@ -146,6 +146,58 @@ h6 {
 }
 
 
+// Index.qmd Links
+
+// remove about separator
+div.quarto-about-jolla .about-sep {
+  height: 0;
+  margin: 0;
+  color: $white;
+}
+
+div.quarto-about-jolla .about-link {
+  color: $blue5;
+  font-size: 1em;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+div.quarto-about-jolla .about-link:hover {
+  background-color: $white;
+  color: $blue6;
+}
+
+// listing buttons
+
+div.quarto-post .listing-categories .listing-category, .quarto-category, .btn {
+  opacity: 0.8 !important;
+  color: $secondary;
+  border-color: $secondary;
+  text-align: center;
+  border-style: solid;
+  text-decoration: none;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+.btn {
+  opacity: 1 !important;
+  padding: 0.5em;
+  border-radius: 6px;
+}
+div.quarto-post .listing-categories .listing-category:hover, .quarto-category:hover, .btn:hover {
+  background-color: $burnt-orange;
+  color: $white;
+}
+
+.listing-btn-group {
+  display: inline-flex;
+  gap: 1em;
+}
+
+
 // Code
 pre.sourceCode {
   font-size: 0.9em;

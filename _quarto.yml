@@ -20,7 +20,7 @@ website:
   navbar:
     title: "TYLER<span class='icon-line'></span>BONNELL"
     pinned: true
-    left:
+    right: 
       - text: About
         icon: person-fill
         href: index.qmd
@@ -33,25 +33,6 @@ website:
       - text: Resources
         icon: database-fill-gear
         href: resources.qmd
-    right: 
-      - icon: briefcase-fill
-        aria-label: Work
-        href: https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino
-      - icon: github
-        aria-label: GitHub
-        menu:
-          - text: GitHub Profile
-            url: https://github.com/Tyler-Bonnell
-          - text: Source Code
-            url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website
-          - text: Report an Issue
-            url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website/issues
-      - icon: linkedin
-        aria-label: LinkedIn
-        href: https://www.linkedin.com/in/tylerjbonnell/
-      - icon: send
-        aria-label: Email
-        href: mailto:tylerbonnell.j@gmail.com
   page-footer:
     border: true
     left: "&#169; 2024 Tyler Bonnell"
@@ -62,7 +43,7 @@ website:
         href: acknowledgements.qmd
       - text: License
         href: license.qmd
-    right: "Made with [Quarto](https://quarto.org), Maintained in [R](https://www.r-project.org/), and Styled with [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)."
+    right: "Made with [Quarto](https://quarto.org), Maintained in [{{< fa brands r-project >}}](https://www.r-project.org/), and Styled with [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)."
   cookie-consent:
     type: express
 
