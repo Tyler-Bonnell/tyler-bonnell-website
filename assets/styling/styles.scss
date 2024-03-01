@@ -52,6 +52,11 @@ $min-contrast-ratio:   7;
 
 /*-- scss:rules --*/
 
+// Universal Hyperlink Hover Color (Unless Specified Elsewhere Below)
+a:hover {
+    color: $blue6; 
+}
+
 // Headers
 h1 {
   font-size: 1.8em;
@@ -369,3 +374,11 @@ body .nav-footer {
     color: white;
     text-decoration: underline white; /* Underline in white on hover */
 }
+
+// Half Height Line Breaks  (spacing of content)
+
+.half-height-br {
+            height: 0.5em;
+            display: block;
+            content: "";
+        }
