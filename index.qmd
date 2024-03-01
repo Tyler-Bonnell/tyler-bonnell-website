@@ -25,7 +25,7 @@ about:
 ::: {#hero-heading}
 :::
 
-<br>
+<span class="half-height-br"></span>
 
 I am an Epidemiologist and Public Health Data Scientist for the [Rapid Health Information Network](https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino) (RHINO) program in the Washington State Department of Health [Center for Data Science](https://doh.wa.gov/about-us/executive-offices/health-and-science/center-data-science). 
 
