@@ -10,19 +10,16 @@ execute:
   freeze: auto
     
 website:
-  title: "Tyler Bonnell"
   favicon: assets/images/Logo.webp
   repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
   repo-actions:
     - source
     - issue
-  search:
-    type: textbox
+  search: true
   
   navbar:
+    title: "TYLER<span class='icon-line'></span>BONNELL"
     pinned: true
-    logo: assets/images/Logo-nobg.webp
-    logo-alt: "Initials T J B in diagonal pattern."
     left:
       - text: About
         icon: person-fill
@@ -33,12 +30,6 @@ website:
       - text: Projects
         icon: code-slash
         href: projects.qmd
-      - text: Publications
-        icon: journal-bookmark-fill
-        href: publications.qmd
-      - text: Talks
-        icon: card-heading
-        href: talks.qmd
       - text: Resources
         icon: database-fill-gear
         href: resources.qmd
