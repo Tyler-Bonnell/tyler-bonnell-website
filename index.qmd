@@ -2,13 +2,32 @@
 title: "Tyler Bonnell"
 description: "Epidemiologist | Data Scientist"
 image: assets/images/headshot.webp
+
 about: 
+  id: hero-heading
   template: jolla
   image-width: 20em
-
+  links:
+    - icon: briefcase-fill
+      text: Work
+      href: https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino
+    - icon: github
+      text: GitHub
+      url: https://github.com/Tyler-Bonnell
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tylerjbonnell/
+    - icon: send
+      text: Email
+      href: mailto:tylerbonnell.j@gmail.com
 ---
 
-I am an Epidemiologist and Public Health Data Scientist for the [Rapid Health Information Network](https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino) program in the Washington State Department of Health [Center for Data Science](https://doh.wa.gov/about-us/executive-offices/health-and-science/center-data-science). 
+::: {#hero-heading}
+:::
+
+<br>
+
+I am an Epidemiologist and Public Health Data Scientist for the [Rapid Health Information Network](https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino) (RHINO) program in the Washington State Department of Health [Center for Data Science](https://doh.wa.gov/about-us/executive-offices/health-and-science/center-data-science). 
 
 ::: {.panel-tabset}
 
