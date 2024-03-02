@@ -53,7 +53,16 @@ $min-contrast-ratio:   7;
 
 /*-- scss:rules --*/
 
-// Universal Hyperlink Hover Color (Unless Specified Elsewhere Below)
+// Global Settings
+
+/// Hyperlinks 
+
+//// Default
+a {
+    color: $burnt-orange; /* Change this to the desired default color */
+}
+
+//// Hover 
 a:hover {
     color: $white; 
 }
@@ -71,29 +80,26 @@ h2 {
 }
 
 
-// Centering Panel Tabs
-.panel-tabset {
-      margin: 0 auto; /* This centers the element horizontally */
-      max-width: 700px; /* Adjust the max-width as needed */
-   }
+// Navbar 
 
+/// Adaptable View (all icons in one row);
+/* Source: Andrew Heiss's blog - https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140) */
 
-// navbar
-
-// Hamburger Menu: All icons in one row. Source: https://github.com/andrewheiss/ath-quarto/blob/8bad8578379a83f9aaf6cadd3bc75cb227e76f1b/html/ath.scss#L137-L140)
 .navbar-nav.navbar-nav-scroll.ms-auto {
     flex-direction: row;
 }
 
-
 /// Title
+
+//// Title Text 
 .navbar-title{
   text-align: center;
   font-size: $font-size-base * 1.5;
 }
 
-// the line in the navbar logo
-// animation defined in ek-styles.css
+//// Title Text Line 
+/* Source: Ella Kaye's website - https://github.com/EllaKaye/ellakaye.co.uk/blob/main/assets/ek-theme-light.scss (includes all other text line CSS below) */
+
 .icon-line {
   display: block;
   background: $burnt-orange;
@@ -105,11 +111,13 @@ h2 {
   margin-bottom: -6px;
 }
 
+//// Title Text Line Hover
 .navbar-title:hover > .icon-line {
   animation-duration: 600ms;
   animation-name: line-expand;
 }
 
+//// Title Text Line Hover Expand Animation
 @keyframes line-expand {
   from {
     width: 0%;
@@ -120,15 +128,37 @@ h2 {
   }
 }
 
-// Index.qmd Links
 
-// remove about separator
+// Pages 
+
+/// Navbar Page Hyperlink
+.navbar-nav .nav-link {
+    color: $white !important;
+    border-bottom: 0px hidden $secondary;    
+    margin: 0px 10px 0px 10px; 
+    padding: 2px 2px 4px 2px !important;
+
+/// Navbar Page Hyperlink Hover
+    &:hover {
+      border-bottom: 3px solid $burnt-orange !important;
+      padding: 2px 2px 0px 2px !important;
+    }
+}
+
+
+
+// Index.qmd (Home/About Page)
+
+/* Source: All CSS in this section (Index.qmd) was adapted from Jadey Ryan's website - https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss */
+
+//// About Separator 
 div.quarto-about-jolla .about-sep {
   height: 0;
   margin: 0;
   color: $dark-grey2;
 }
 
+//// About Links
 div.quarto-about-jolla .about-link {
   color: $orange;
   font-size: 1em;
@@ -137,13 +167,13 @@ div.quarto-about-jolla .about-link {
   transition-timing-function: ease-in-out;
 }
 
+//// About Links Hover
 div.quarto-about-jolla .about-link:hover {
   background-color: $dark-grey2;
   color: $white;
 }
 
-// listing buttons
-
+//// About Links Buttons
 div.quarto-post .listing-categories .listing-category, .quarto-category, .btn {
   opacity: 0.8 !important;
   color: $secondary;
@@ -161,29 +191,22 @@ div.quarto-post .listing-categories .listing-category, .quarto-category, .btn {
   padding: 0.5em;
   border-radius: 6px;
 }
+
+//// About Links Buttons Hover
 div.quarto-post .listing-categories .listing-category:hover, .quarto-category:hover, .btn:hover {
   background-color: $burnt-orange;
   color: $white;
 }
 
+//// About Links Buttons (Grouping)
 .listing-btn-group {
   display: inline-flex;
   gap: 1em;
 }
 
 
-// Code
-pre.sourceCode {
-  font-size: 0.9em;
-}
 
-.sourceCode pre code {
-  padding: 0.9em;
-}
-
-
-// Footer
-/// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
+// Footer 
 
 /// Footer Border
 body .nav-footer {
@@ -204,6 +227,7 @@ body .nav-footer {
       color: $white;
     }
 }
+
 
 /// Footer Alignment (Rows)
 @media screen and (max-width: 991.98px) {
@@ -239,13 +263,13 @@ body .nav-footer {
   div.cookie-consent-footer {
     margin-top: -0.5em;
   }
-
+  
 }
 
 
-// Cookies
 
-/// Source Code adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
+// Cookies
+/// Source Code adapted from Jadey Ryan's website: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss
 
 // Cookie Header
 
@@ -302,6 +326,7 @@ body .nav-footer {
   background: $burnt-orange;
 }
 
+
 // Cookie Footer
 
 /// Footer Background
@@ -321,8 +346,22 @@ body .nav-footer {
   border-radius: 6px;
 }
 
-// Back to Top button
 
+// Code
+/* Source Code for this section was adapted from Jadey Ryan's blog: https://github.com/jadeynryan/jadey_website/blob/main/assets/styling/theme.scss */
+
+pre.sourceCode {
+  font-size: 0.9em;
+}
+
+.sourceCode pre code {
+  padding: 0.9em;
+}
+
+
+// Misc 
+
+/// Back to Top button
 #myBtn {
     position: fixed;
     bottom: 75px;
@@ -332,22 +371,34 @@ body .nav-footer {
     border: none;
     outline: none;
     background-color: rgba(51, 66, 64, 0.75); /* Grey9: Start color with 75% opacity */
-    color: $white;
+    color: $burnt-orange;
     cursor: pointer;
     padding: 10px;
     border-radius: 10px;
 }
 
+/// Back to Top button Hover
 #myBtn:hover {
     background-color: rgba(51, 66, 64, 1); /* Grey9: Hover color with full opacity */
-    color: $burnt-orange;
-    text-decoration: underline $burnt-orange; /* Underline in white on hover */
+    color: $white;
+    text-decoration: underline $white; /* Underline in white on hover */
 }
 
-// Half Height Line Breaks  (spacing of content)
-
+/// Half Height Line Breaks  (spacing of content)
 .half-height-br {
             height: 0.5em;
             display: block;
             content: "";
-        }
+}
+
+/// CV Dates
+.cv-date {
+  float: right;
+  color: $white;
+}
+
+/// Centering Panel Tabs
+.panel-tabset {
+      margin: 0 auto; /* This centers the element horizontally */
+      max-width: 700px; /* Adjust the max-width as needed */
+}
