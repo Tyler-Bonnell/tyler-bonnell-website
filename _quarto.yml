@@ -46,7 +46,7 @@ website:
     right: "Made with [Quarto](https://quarto.org), Maintained in [{{< fa brands r-project >}}](https://www.r-project.org/), and Styled with [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)."
   cookie-consent:
     type: express
-    prefs-text: "🍪 Cookie Preferences"
+    prefs-text: "Cookie Preferences"
 
 format:
   html:
