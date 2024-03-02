@@ -10,19 +10,17 @@ execute:
   freeze: auto
     
 website:
-  title: "Tyler Bonnell"
-  favicon: assets/images/logo-nobg.png
+  favicon: assets/images/Logo.webp
   repo-url: https://github.com/Tyler-Bonnell/tyler-bonnell-website
   repo-actions:
     - source
     - issue
-  search:
-    type: textbox
-  back-to-top-navigation: true
+  search: true
   
   navbar:
+    title: "TYLER<span class='icon-line'></span>BONNELL"
     pinned: true
-    left:
+    right: 
       - text: About
         icon: person-fill
         href: index.qmd
@@ -34,42 +32,27 @@ website:
         href: projects.qmd
       - text: Resources
         icon: database-fill-gear
-        href: data_science_resources.qmd
-    right: 
-      - icon: briefcase-fill
-        aria-label: Work
-        href: https://doh.wa.gov/public-health-healthcare-providers/healthcare-professions-and-facilities/data-exchange/syndromic-surveillance-rhino
-      - icon: github
-        aria-label: GitHub
-        menu:
-          - text: GitHub Profile
-            url: https://github.com/Tyler-Bonnell
-          - text: Source Code
-            url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website
-          - text: Report an Issue
-            url:  https://github.com/Tyler-Bonnell/tyler-bonnell-website/issues
-      - icon: linkedin
-        aria-label: LinkedIn
-        href: https://www.linkedin.com/in/tylerjbonnell/
-      - icon: send
-        aria-label: Email
-        href: mailto:tylerbonnell.j@gmail.com
+        href: resources.qmd
   page-footer:
     border: true
     left: "&#169; 2024 Tyler Bonnell"
-    right: "Made with Quarto"
+    center:
+      - text: Code of Conduct
+        href: code_of_conduct.qmd
+      - text: Acknowledgements
+        href: acknowledgements.qmd
+      - text: License
+        href: license.qmd
+    right: "Made with [Quarto](https://quarto.org), Maintained in [{{< fa brands r-project >}}](https://www.r-project.org/), and Styled with [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)."
   cookie-consent:
     type: express
+    prefs-text: "Cookie Preferences"
 
 format:
   html:
     theme:
-      light: 
-        - yeti
-        - assets/styling/styles.scss
-      dark: 
-        - darkly
-        - assets/styling/styles_dark.scss
+      light: [yeti, assets/styling/styles.scss]
+      dark: [darkly, assets/styling/styles_dark.scss]
     toc: true
     toc-depth: 4
     pagetitle: "Tyler Bonnell | {{< meta title >}}"

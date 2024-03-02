@@ -1,0 +1,14 @@
+---
+title: "Talks"
+listing:
+  contents: assets/talks
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
+---
