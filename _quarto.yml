@@ -47,6 +47,9 @@ website:
   cookie-consent:
     type: express
     prefs-text: "Cookie Preferences"
+  google-analytics:
+    tracking-id: "G-8BZ6WCP48Z"
+    anonymize-ip: true
 
 format:
   html:
