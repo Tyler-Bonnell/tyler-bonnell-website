@@ -45,8 +45,7 @@ website:
         href: license.qmd
     right: "Made with [Quarto](https://quarto.org), Maintained in [{{< fa brands r-project >}}](https://www.r-project.org/), and Styled with [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)."
   cookie-consent:
-    type: implied
-    style: simple
+    type: express
     prefs-text: "Cookie Preferences"
 
 format:
