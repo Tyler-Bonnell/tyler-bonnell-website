@@ -1,5 +1,5 @@
 # Description:
-As an early-career Data Scientist, I have been looking for an ideal platform to share my professional experience and highlight projects I have undertaken outside of my organization's enterprise envrionment. After much thought, I have decided on creating a professional Data Science portfolio which is coded in [R](https://www.r-project.org/), rendered in [Quarto](https://quarto.org/docs/websites/), updated and made reproducible with [GitHub](https://github.com/), and hosted on [Netlify](https://www.netlify.com/).
+As an early-career Data Scientist, I have been looking for an ideal platform to share my professional experience and highlight projects I have undertaken outside of my organization's enterprise environment. After much thought, I have decided on creating a professional Data Science portfolio which is coded in [R](https://www.r-project.org/), rendered in [Quarto](https://quarto.org/docs/websites/), updated and made reproducible with [GitHub](https://github.com/), and hosted on [Netlify](https://www.netlify.com/).
 
 ## Skills:
 Throughout this week-long project, I have had to draw upon and learn the following skills:
